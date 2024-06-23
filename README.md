@@ -3,7 +3,7 @@ This application is a web application that lists various spaceships in the Star 
 
 ## Live website 
 
-Can be accessed via clicking [HERE]()
+Can be accessed via clicking [HERE](https://starwarsapp-ardacanbakis.vercel.app/)
 
 ## How it works 
 
